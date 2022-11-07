@@ -1,2 +1,16 @@
 @charset "utf-8";
 
+.red{
+    color:red;
+    font-size: 120%;
+}
+
+ul{
+    background-color: azure;
+}
+
+ol{
+    font-size: 120%;
+    color: cadetblue;
+    background-color: dimgray;
+}

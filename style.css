@@ -5,13 +5,14 @@ body{
 }
 
 .red{
-    color:red;
+    text-decoration: underline 2px solid red;
     font-size: 200%;
     font-weight: 200;
 }
 
 ul{
     background-color: azure;
+    padding: 2%;
 }
 
 li{
@@ -25,13 +26,19 @@ ol{
 
 p{
     background-color: darkkhaki;
+    padding: 2%;
 }
 
 h1{
     background-color: darkorchid;
     color: rgb(44, 66, 62);
+    padding: 2%;
+    border-left: solid 30px rgb(17, 133, 13);
 }
 
 h2{
     background-color: cornflowerblue;
+    padding: 2%;
+    border: solid 5px;
+    border-radius: 50px;
 }

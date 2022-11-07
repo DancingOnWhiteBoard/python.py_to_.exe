@@ -1,16 +1,37 @@
 @charset "utf-8";
 
+body{
+    padding: 2%;
+}
+
 .red{
     color:red;
-    font-size: 120%;
+    font-size: 130%;
+    font-weight: 200;
 }
 
 ul{
     background-color: azure;
 }
 
-ol{
+li{
     font-size: 120%;
-    color: cadetblue;
-    background-color: dimgray;
+    color: rgb(32, 40, 41);
+}
+
+ol{
+    background-color: cornsilk;
+}
+
+p{
+    background-color: darkkhaki;
+}
+
+h1{
+    background-color: darkorchid;
+    color: rgb(44, 66, 62);
+}
+
+h2{
+    background-color: cornflowerblue;
 }
